@@ -13,6 +13,6 @@ Hourly Forecast: Users can view hourly weather forecasts for the day, allowing t
 
 Extended Forecast: WeatherWise offers extended forecasts for the upcoming days, providing users with a glimpse of weather trends and potential changes in atmospheric conditions.
 
-Location-Based Services: The application utilizes geolocation to automatically detect the user's location, ensuring accurate weather data tailored to their specific region.
+Location-Based Services: The application allows user to enter their location, ensuring that accurate data is displayed.
 
 Customization Options: Users have the option to customize the application settings according to their preferences, including units of measurement, language preferences, and weather display formats.
